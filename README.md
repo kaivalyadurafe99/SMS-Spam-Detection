@@ -1,7 +1,7 @@
 # SMS-Spam-Detection
 . The main objective is to detect whether the sms are spam or not.
 
-. Further the model implementation starts with the NLP text preprocessing techniques using NLTK library
+. Further the model implementation starts with the NLP text preprocessing techniques using NLTK library.
 
 . Visualized some insights using the Matplotlib and Seaborn libraries in Python.
 
@@ -9,4 +9,5 @@
 
 . Among all these algorithms the Logistic Regression algorithm perform well on training data which gives the best accuracy and precision score.
 
-. Acheived the model accuracy of 97.64%. 
+. Acheived the model accuracy of 97.87%.
+
